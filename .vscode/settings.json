@@ -1,0 +1,18 @@
+{
+	"C_Cpp.default.compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/cl.exe",
+	"C_Cpp.default.includePath": [
+		"${workspaceFolder}",
+		"C:/Program Files (x86)/Microsoft SDKs/MPI/Include"
+	],
+	"C_Cpp.default.browse.path": [
+		"${workspaceFolder}",
+		"C:/Program Files (x86)/Microsoft SDKs/MPI/Include"
+	],
+	"C_Cpp.default.compilerArgs": [
+		"/I",
+		"C:/Program Files (x86)/Microsoft SDKs/MPI/Include"
+	],
+	"C_Cpp.default.intelliSenseMode": "windows-msvc-x64",
+	"C_Cpp.default.cppStandard": "c++17",
+	"C_Cpp.default.cStandard": "c17"
+}
